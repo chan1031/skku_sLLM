@@ -7,7 +7,7 @@
 성균관대학교 정보와 문화에 특화된 대규모 언어 모델입니다.  
 학생들에게 학교 관련 정보를 제공하고, 친근한 대화를 나눌 수 있도록 개발되었습니다.  
 데이터셋은 성균관대학교 홈페이지(www.skku.edu)에서 크롤링한 데이터셋을 GPT API로 QA 데이터셋으로 변환하였습니다.
-Base모델로는 Llama3-OpenKo-8B 모델을 활용하였으며 LoRA, 4bit 양자화 파인튜닝으로 학습하였습니다.  
+Base모델로는 Llama3-Open-Ko-8B 모델을 활용하였으며 LoRA, 4bit 양자화 파인튜닝으로 학습하였습니다.  
 ## 모델 및 데이터셋 링크
 모델: https://huggingface.co/chan1031/skku-llm  
 데이터셋: https://huggingface.co/datasets/chan1031/skku-qa  
